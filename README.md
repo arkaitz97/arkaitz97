@@ -4,7 +4,7 @@ Engineering lead in Vitoria-Gasteiz, Spain. I run software delivery end to end:
 scope, architecture, tests, CI, and the boring documentation that keeps a project
 alive after the team changes.
 
-**What I work with:** Ruby on Rails, Go, Node.js, Python, TypeScript, Vue 3, PostgreSQL, Docker.
+**What I work with:** Java, Ruby on Rails, Go, Node.js, Python, TypeScript, Vue 3, PostgreSQL, Docker.
 
 **Writing:** [arkaitzmolinuevo.com](https://arkaitzmolinuevo.com) — notes on
 consistency trade-offs, system design and AI-assisted delivery.
